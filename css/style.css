@@ -16,7 +16,7 @@
 	margin-right: -15px;
 }
 header {
-	background-color: #FA8258;
+	background-color: red;
 	padding: 10px 0 10px 0;
 }
 a:hover {
@@ -57,6 +57,7 @@ p {
 .col-12 {
 	flex: 0 0 100%;
     max-width: 100%;
+	text-align: center;
 }
 .menu ul li {
 
@@ -199,17 +200,4 @@ ul.menu_footer li {
 }
 .footer {
 	padding-bottom: 20px;
-}
-.footer h3 {
-	color: rgba(100,255,10,1);
-}
-.copy_right {
-	padding: 10px 0 0px 0;
-	text-align: center;
-	border-top: 1px solid #fff;
-}
-.sticky-top {
-	position: sticky;
-	top: 0;
-	z-index: 1;
 }
